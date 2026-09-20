@@ -1,0 +1,16 @@
+Subject: Documents required for onboarding: $role
+
+Hi $first_name,
+
+Congratulations on being selected for the $role position. To complete onboarding, please share the following documents by $deadline:
+
+1. Signed offer letter
+2. Updated resume
+3. Photo ID and address proof
+4. Educational certificates
+
+Please reply to this email with scanned copies or contact me if you need any help.
+
+Best regards,
+$recruiter
+Talent Acquisition Team

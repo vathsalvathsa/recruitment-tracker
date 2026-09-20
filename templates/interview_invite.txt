@@ -1,0 +1,14 @@
+Subject: Interview invitation: $role
+
+Hi $first_name,
+
+Thank you for your interest in the $role position. We would like to invite you for an interview.
+
+Proposed slot: $slot
+Mode: $mode
+
+Please reply to confirm your availability or suggest another time. Kindly keep a copy of your latest resume and a valid photo ID handy.
+
+Best regards,
+$recruiter
+Talent Acquisition Team

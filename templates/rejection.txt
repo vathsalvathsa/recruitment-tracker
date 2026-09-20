@@ -1,0 +1,11 @@
+Subject: Update on your application for $role
+
+Hi $first_name,
+
+Thank you for the time you invested in the process for the $role position. After careful consideration, we will not be moving forward with your application at this stage.
+
+We appreciate your interest and encourage you to apply for future openings that match your profile.
+
+Best regards,
+$recruiter
+Talent Acquisition Team

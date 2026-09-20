@@ -1,0 +1,9 @@
+Subject: We received your application for $role
+
+Hi $first_name,
+
+Thank you for applying for the $role position. We have received your application (reference $candidate_id) and our team will review it. If your profile matches the requirements, we will contact you within a few working days to discuss next steps.
+
+Best regards,
+$recruiter
+Talent Acquisition Team
